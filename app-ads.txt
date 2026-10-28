@@ -1,0 +1,3 @@
+# Sostituisci pub-6194177028275309 con il tuo ID editore AdMob (AdMob > Impostazioni > Informazioni account)
+# poi togli il # davanti alla riga qui sotto.
+google.com, pub-6194177028275309, DIRECT, f08c47fec0942fa0
